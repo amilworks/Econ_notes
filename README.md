@@ -1,2 +1,1 @@
-# Econ_notes
-Notes on Economics involving calculus
+# Notes on Economics Involving Calculus
